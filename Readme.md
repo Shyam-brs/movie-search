@@ -9,4 +9,4 @@
 ##### Purpose:
     This app contains all movie details along with ratings
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/javascript/movie-search).
+#### Check out the live app [here](https://shyam-brs.github.io/movie-search/).
